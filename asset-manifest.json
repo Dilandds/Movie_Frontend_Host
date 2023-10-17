@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Movie_Frontend_Host/static/css/main.b0e2dcc2.css",
+    "main.js": "/Movie_Frontend_Host/static/js/main.2705dcb1.js",
+    "static/media/glyphicons-halflings-regular.svg": "/Movie_Frontend_Host/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/glyphicons-halflings-regular.ttf": "/Movie_Frontend_Host/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/Movie_Frontend_Host/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/Movie_Frontend_Host/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/Movie_Frontend_Host/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "static/media/logo.svg": "/Movie_Frontend_Host/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Movie_Frontend_Host/index.html",
+    "main.b0e2dcc2.css.map": "/Movie_Frontend_Host/static/css/main.b0e2dcc2.css.map",
+    "main.2705dcb1.js.map": "/Movie_Frontend_Host/static/js/main.2705dcb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0e2dcc2.css",
+    "static/js/main.2705dcb1.js"
+  ]
+}
